@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Unknown</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>25</title>
+            <link>slides/25.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/25.jpg" width="729" height="444"/>
+            <guid isPermaLink="false">slides/25.jpg</guid>
+        </item>
+        <item>
+            <title>28</title>
+            <link>slides/28.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/28.jpg" width="410" height="720"/>
+            <guid isPermaLink="false">slides/28.jpg</guid>
+        </item>
+        <item>
+            <title>35</title>
+            <link>slides/35.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description>Hilda?</description>
+            <media:description type="html">Hilda?</media:description>
+            <media:thumbnail url="thumbs/35.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/35.jpg" width="414" height="720"/>
+            <guid isPermaLink="false">slides/35.jpg</guid>
+        </item>
+        <item>
+            <title>37</title>
+            <link>slides/37.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/37.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/37.jpg" width="729" height="458"/>
+            <guid isPermaLink="false">slides/37.jpg</guid>
+        </item>
+        <item>
+            <title>59</title>
+            <link>slides/59.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/59.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/59.jpg" width="448" height="720"/>
+            <guid isPermaLink="false">slides/59.jpg</guid>
+        </item>
+        <item>
+            <title>39</title>
+            <link>slides/39.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/39.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/39.jpg" width="433" height="718"/>
+            <guid isPermaLink="false">slides/39.jpg</guid>
+        </item>
+        <item>
+            <title>41</title>
+            <link>slides/41.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/41.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/41.jpg" width="412" height="720"/>
+            <guid isPermaLink="false">slides/41.jpg</guid>
+        </item>
+        <item>
+            <title>1</title>
+            <link>slides/1.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/1.jpg" width="570" height="720"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>45</title>
+            <link>slides/45.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/45.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/45.jpg" width="728" height="449"/>
+            <guid isPermaLink="false">slides/45.jpg</guid>
+        </item>
+        <item>
+            <title>58</title>
+            <link>slides/58.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/58.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/58.jpg" width="459" height="719"/>
+            <guid isPermaLink="false">slides/58.jpg</guid>
+        </item>
+        <item>
+            <title>56</title>
+            <link>slides/56.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/56.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/56.jpg" width="736" height="446"/>
+            <guid isPermaLink="false">slides/56.jpg</guid>
+        </item>
+        <item>
+            <title>66</title>
+            <link>slides/66.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/66.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/66.jpg" width="744" height="444"/>
+            <guid isPermaLink="false">slides/66.jpg</guid>
+        </item>
+        <item>
+            <title>69</title>
+            <link>slides/69.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/69.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/69.jpg" width="426" height="719"/>
+            <guid isPermaLink="false">slides/69.jpg</guid>
+        </item>
+        <item>
+            <title>42</title>
+            <link>slides/42.jpg</link>
+            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/42.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/42.jpg" width="424" height="710"/>
+            <guid isPermaLink="false">slides/42.jpg</guid>
+        </item>
+    </channel>
+</rss>
