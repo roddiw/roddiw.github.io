@@ -752,15 +752,15 @@ h1,h2,h3,h4 { font-family: "Oswald", "Trebuchet MS", "Lucida Sans Unicode", "Luc
 	display: inline-block;
 	margin: 1px;
 	text-align: center;
-	width: 60px;
-	height: 45px;
-	line-height: 45px;
+	width: 72px;
+	height: 72px;
+	line-height: 72px;
 }
 .shopall ul.thumbs li img {
 	width: auto;
 	height: auto;
-	max-width: 60px;
-	max-height: 45px;
+	max-width: 72px;
+	max-height: 72px;
 }
 
 .shopall ul.thumbs li a.remove {
@@ -1533,7 +1533,7 @@ a.control:hover {
 
 .folders aside {
 	position: relative;
-	margin: 48px auto 0.5em auto;
+	margin: 29px auto 0.5em auto;
 	display: table;
 	text-align: center;
 	border-collapse: collapse;
@@ -1545,16 +1545,16 @@ a.control:hover {
 }
 .folders aside a {
 	display: table-cell;
-	width: 200px;
-	height: 150px;
+	width: 239px;
+	height: 239px;
 	vertical-align: middle;
 }
 .ie7 .folders aside a {
 	display: block;
 }
 .folders aside a img {
-	max-width: 200px;
-	max-height: 150px;
+	max-width: 239px;
+	max-height: 239px;
 	vertical-align: top;
 	border: none;
 }
@@ -1601,11 +1601,11 @@ a.control:hover {
 	display: inline-block;
 	vertical-align: top;
 	color: #bbbbbb;
-	max-width: 426px;
+	max-width: 390px;
 	max-height: 40px;
 	white-space: nowrap;
 	overflow: hidden;
-	padding: 11px;
+	padding: 29px;
 	background-color: rgba(255,255,255,0.1);
 	transition: background-color 250ms linear;
 	-webkit-transition: background-color 250ms linear;
@@ -1655,21 +1655,21 @@ a.control:hover {
 /******************************************* Thumbnail grid on index page */
 
 .thumbs td {
-	width: 25%;
+	width: 33.333333333333336%;
 	padding: 0;
 	background-color: rgba(255,255,255,0.1);
 }
 /*.thumbs table td {
-	width: 222px;
+	width: 298px;
 }*/
 .thumbs td > a {
 	display: block;
 	position: relative;
-	height: 150px;
-	line-height: 146px;
+	height: 240px;
+	line-height: 236px;
 	overflow: hidden;
 	text-align: center;
-	padding: 11px;
+	padding: 29px;
 	-moz-border-radius:4px; border-radius:4px;
 	transition: background-color 250ms linear;
 	-webkit-transition: background-color 250ms linear;
@@ -1704,8 +1704,8 @@ a.control:hover {
 .thumbs td > a img {
 	display: inline;
 	vertical-align: middle;
-	max-width: 200px;
-	max-height: 150px;
+	max-width: 240px;
+	max-height: 240px;
 	border: 0;
 	outline: none;
 }
@@ -1719,7 +1719,7 @@ a.control:hover {
 	margin: 0;
 	padding: 0.5em 8px;
 	line-height: 1.2;
-	max-width: 206px;
+	max-width: 282px;
 	overflow-x: hidden;
 	text-align: center;
 	-webkit-overflow-scrolling: touch;
@@ -1763,8 +1763,8 @@ a.control:hover {
 }
 .thumbs .newlabel {
 	line-height: 12px;
-	right: 11px;
-	top: 11px;
+	right: 29px;
+	top: 29px;
 }	
 .folders .newlabel {
 	line-height: 12px;
@@ -1804,8 +1804,8 @@ a.control:hover {
 .thumbs .checkbox {
 	width: 20px;
 	height: 20px;
-	left: 11px;
-	top: 11px;
+	left: 29px;
+	top: 29px;
 }
 .gallery .main .checkbox {
 	width: 24px;
@@ -1878,7 +1878,7 @@ a.control:hover {
 #map {
 	display: block;
 	margin: 0 4px;
-	padding: 11px;
+	padding: 29px;
 	background-color: rgba(255,255,255,0.1);
 	overflow: hidden;
 	-moz-border-radius:4px; border-radius:4px;
@@ -1890,7 +1890,7 @@ a.control:hover {
 }
 #map .cont {
 	position: relative;
-	width: 878px;
+	width: 842px;
 	height: 300px;
 }
 
@@ -1903,9 +1903,9 @@ a.control:hover {
 	margin-right: 4px;
 }
 .disqus-comments {
-	padding: 11px;
+	padding: 29px;
 	background-color: rgba(255,255,255,0.1);
-	width: 878px;
+	width: 842px;
 	-moz-border-radius:4px; border-radius:4px;
 	-moz-box-shadow:0px 1px 2px rgba(0,0,0,0.4); -webkit-box-shadow:0px 1px 2px rgba(0,0,0,0.4); box-shadow:0px 1px 2px rgba(0,0,0,0.4);
 }
@@ -2082,7 +2082,7 @@ a.control:hover {
 	z-index: 10000;
 }
 .gallery .navigation.hide {
-	top: -120px;
+	top: -180px;
 }
 .gallery .navigation nav {
 	display: none;
@@ -2195,8 +2195,8 @@ a.control:hover {
 	top: 0;
 	left: 0;
 	display: block;
-	width: 920px;
-	height: 120px;
+	width: 984px;
+	height: 180px;
 	max-width: 80%;
 	margin: 0 auto;
 	-moz-border-bottom-left-radius:6px; -moz-border-bottom-right-radius:6px; border-bottom-left-radius:6px; border-bottom-right-radius:6px;
@@ -2225,7 +2225,7 @@ a.control:hover {
 	position: relative;
 	top: 5px;
 	margin: 0 40px;
-	height: 108px;
+	height: 168px;
 	overflow: hidden;
 }
 .gallery .scrollbox ul.cont {
@@ -2245,8 +2245,8 @@ a.control:hover {
 	float: left;
 	display: inline;
 	position: relative;
-	width: 139px;
-	height: 106px;
+	width: 166px;
+	height: 166px;
 	overflow: hidden;
 	margin: 1px;
 	text-align: center;
@@ -2257,13 +2257,13 @@ a.control:hover {
 	position: relative;
 	padding: 3px;
 	margin-right: 1px;
-	width: 133px;
-	height: 100px;
+	width: 160px;
+	height: 160px;
 	text-align: center;
 }
 .gallery .scrollbox .cont a img {
-	max-width: 133px;
-	max-height: 100px;
+	max-width: 160px;
+	max-height: 160px;
 	vertical-align: middle;
 }
 .gallery .scrollbox .cont a:hover, 
@@ -2287,7 +2287,7 @@ a.control:hover {
 	position: absolute;
 	top: 5px;
 	width: 24px;
-	height: 108px;
+	height: 168px;
 	background-repeat: no-repeat;
 	background-position: left center;
 }	
@@ -2354,7 +2354,7 @@ a.control:hover {
 	touch-action: none;
 }
 .gallery .img .other {
-	width: 400px;
+	width: 480px;
 	text-align: center;
 	background-color: rgba(240,240,240,0.85);
 	color: #555;
@@ -2423,7 +2423,7 @@ a.control:hover {
 }
 .gallery .bottom .cont {
 	position: relative;
-	width: 890px;
+	width: 954px;
 	max-width: 80%;
 	margin: 0 auto;
 	padding: 5px 8px 6px 15px;
