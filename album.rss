@@ -10,9 +10,29 @@
         <jalbum:absolutePath></jalbum:absolutePath>
     	<jalbum:link rel="sub" href="Unknown/album.rss" />   	
         <item>
+            <title>dad latest.4-1</title>
+            <link>slides/dad latest.4-1.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Grandmum's sister Nellie.</description>
+            <media:description type="html">Grandmum's sister Nellie.</media:description>
+            <media:thumbnail url="thumbs/dad latest.4-1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.4-1.jpg" width="737" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.4-1.jpg</guid>
+        </item>
+        <item>
+            <title>62</title>
+            <link>slides/62.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1930s. Reenie Chambers, grandmum's workmate, at the beach.</description>
+            <media:description type="html">1930s. Reenie Chambers, grandmum's workmate, at the beach.</media:description>
+            <media:thumbnail url="thumbs/62.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/62.jpg" width="404" height="720"/>
+            <guid isPermaLink="false">slides/62.jpg</guid>
+        </item>
+        <item>
             <title>64</title>
             <link>slides/64.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Mid 1930s?. Dorrie's daughter Valerie, Grandmum's sister Dorrie</description>
             <media:description type="html">Mid 1930s?. Dorrie's daughter Valerie, Grandmum's sister Dorrie</media:description>
             <media:thumbnail url="thumbs/64.jpg" width="200" height="150"/>
@@ -22,7 +42,7 @@
         <item>
             <title>43</title>
             <link>slides/43.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Valerie, Dorrie's daughter.</description>
             <media:description type="html">Valerie, Dorrie's daughter.</media:description>
             <media:thumbnail url="thumbs/43.jpg" width="200" height="150"/>
@@ -32,7 +52,7 @@
         <item>
             <title>19</title>
             <link>slides/19.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1935. grandmum's workmate Reenie Chambers, her husband, ??, grandmum, ??, grandmum's workmate Avril</description>
             <media:description type="html">1935. grandmum's workmate Reenie Chambers, her husband, ??, grandmum, ??, grandmum's workmate Avril</media:description>
             <media:thumbnail url="thumbs/19.jpg" width="200" height="150"/>
@@ -42,7 +62,7 @@
         <item>
             <title>93</title>
             <link>slides/93.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Grandmum's workmate Reenie Chambers and her husband</description>
             <media:description type="html">Grandmum's workmate Reenie Chambers and her husband</media:description>
             <media:thumbnail url="thumbs/93.JPG" width="200" height="150"/>
@@ -52,7 +72,7 @@
         <item>
             <title>50</title>
             <link>slides/50.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>??, ??, grandmum, her workmate Reenie Chambers</description>
             <media:description type="html">??, ??, grandmum, her workmate Reenie Chambers</media:description>
             <media:thumbnail url="thumbs/50.jpg" width="200" height="150"/>
@@ -60,19 +80,19 @@
             <guid isPermaLink="false">slides/50.jpg</guid>
         </item>
         <item>
-            <title>62</title>
-            <link>slides/62.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1930s. Reenie Chambers, grandmum's workmate, at the beach.</description>
-            <media:description type="html">1930s. Reenie Chambers, grandmum's workmate, at the beach.</media:description>
-            <media:thumbnail url="thumbs/62.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/62.jpg" width="404" height="720"/>
-            <guid isPermaLink="false">slides/62.jpg</guid>
+            <title>dad latest.4-3</title>
+            <link>slides/dad latest.4-3.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Grandmum's workmate Reenie Chambers.</description>
+            <media:description type="html">Grandmum's workmate Reenie Chambers.</media:description>
+            <media:thumbnail url="thumbs/dad latest.4-3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.4-3.jpg" width="259" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.4-3.jpg</guid>
         </item>
         <item>
             <title>84</title>
             <link>slides/84.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Late 1930s. Grandmum's work social group "the merry larks". ??, ??, ??, Reenie Chambers, grandmum, ??, ??, ??. Grandmum was an overlocker.</description>
             <media:description type="html">Late 1930s. Grandmum's work social group "the merry larks". ??, ??, ??, Reenie Chambers, grandmum, ??, ??, ??. Grandmum was an overlocker.</media:description>
             <media:thumbnail url="thumbs/84.JPG" width="200" height="150"/>
@@ -82,37 +102,17 @@
         <item>
             <title>81</title>
             <link>slides/81.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1940s. Grandmum's mother Martha. Her husband kicked her out after she had Nellie (oldest?), grandmum and Dorrie. Another sister Maude drowned. Martha had a very bitter personality after being kicked out.</description>
-            <media:description type="html">1940s. Grandmum's mother Martha. Her husband kicked her out after she had Nellie (oldest?), grandmum and Dorrie. Another sister Maude drowned. Martha had a very bitter personality after being kicked out.</media:description>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1940s. Grandmum's mother Martha. Her husband kicked her out after she had Nellie (oldest?), grandmum and Dorrie. Another sister Maude died from pneumonia from wet clothing. Martha had a very bitter personality after being kicked out.</description>
+            <media:description type="html">1940s. Grandmum's mother Martha. Her husband kicked her out after she had Nellie (oldest?), grandmum and Dorrie. Another sister Maude died from pneumonia from wet clothing. Martha had a very bitter personality after being kicked out.</media:description>
             <media:thumbnail url="thumbs/81.JPG" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/81.JPG" width="532" height="720"/>
             <guid isPermaLink="false">slides/81.JPG</guid>
         </item>
         <item>
-            <title>34</title>
-            <link>slides/34.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>Early 1940s. Dad's cousin Linsey holding cat. Cousin Ralph next to him. Possibly dad above Ralph.</description>
-            <media:description type="html">Early 1940s. Dad's cousin Linsey holding cat. Cousin Ralph next to him. Possibly dad above Ralph.</media:description>
-            <media:thumbnail url="thumbs/34.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/34.jpg" width="417" height="720"/>
-            <guid isPermaLink="false">slides/34.jpg</guid>
-        </item>
-        <item>
-            <title>6</title>
-            <link>slides/6.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1940 grandmum and her sister Dorrie</description>
-            <media:description type="html">1940 grandmum and her sister Dorrie</media:description>
-            <media:thumbnail url="thumbs/6.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/6.jpg" width="960" height="559"/>
-            <guid isPermaLink="false">slides/6.jpg</guid>
-        </item>
-        <item>
             <title>36</title>
             <link>slides/36.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1940s grandad's brother Vin during the war. Made money in New Ginea selling contraband to US soldiers, "the foundation of his fortune". Bought farmland in Euroa when he returned.</description>
             <media:description type="html">1940s grandad's brother Vin during the war. Made money in New Ginea selling contraband to US soldiers, "the foundation of his fortune". Bought farmland in Euroa when he returned.</media:description>
             <media:thumbnail url="thumbs/36.jpg" width="200" height="150"/>
@@ -120,9 +120,79 @@
             <guid isPermaLink="false">slides/36.jpg</guid>
         </item>
         <item>
+            <title>dad latest.4-2</title>
+            <link>slides/dad latest.4-2.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Mid 1940s. Dad's cousin Lynsey and ??.</description>
+            <media:description type="html">Mid 1940s. Dad's cousin Lynsey and ??.</media:description>
+            <media:thumbnail url="thumbs/dad latest.4-2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.4-2.jpg" width="795" height="503"/>
+            <guid isPermaLink="false">slides/dad latest.4-2.jpg</guid>
+        </item>
+        <item>
+            <title>34</title>
+            <link>slides/34.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Late 1940s. Dad's cousin Lynsey holding cat. Cousin Ralph next to him. Possibly dad above Ralph.</description>
+            <media:description type="html">Late 1940s. Dad's cousin Lynsey holding cat. Cousin Ralph next to him. Possibly dad above Ralph.</media:description>
+            <media:thumbnail url="thumbs/34.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/34.jpg" width="417" height="720"/>
+            <guid isPermaLink="false">slides/34.jpg</guid>
+        </item>
+        <item>
+            <title>28</title>
+            <link>slides/28.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/28.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/28.jpg" width="410" height="720"/>
+            <guid isPermaLink="false">slides/28.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.3-1</title>
+            <link>slides/dad latest.3-1.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Late 1940s. Dad's cousins Ralph and Lynsey.</description>
+            <media:description type="html">Late 1940s. Dad's cousins Ralph and Lynsey.</media:description>
+            <media:thumbnail url="thumbs/dad latest.3-1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.3-1.jpg" width="464" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.3-1.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.3-3</title>
+            <link>slides/dad latest.3-3.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Late 1940s. Dad's cousin Ralph, dad, cousin Lynsey.</description>
+            <media:description type="html">Late 1940s. Dad's cousin Ralph, dad, cousin Lynsey.</media:description>
+            <media:thumbnail url="thumbs/dad latest.3-3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.3-3.jpg" width="786" height="495"/>
+            <guid isPermaLink="false">slides/dad latest.3-3.jpg</guid>
+        </item>
+        <item>
+            <title>6</title>
+            <link>slides/6.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1940 grandmum and her sister Dorrie</description>
+            <media:description type="html">1940 grandmum and her sister Dorrie</media:description>
+            <media:thumbnail url="thumbs/6.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/6.jpg" width="960" height="559"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.1-4</title>
+            <link>slides/dad latest.1-4.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1943. ?? and dad's "aunty Lila", a workmate of grandmum.</description>
+            <media:description type="html">1943. ?? and dad's "aunty Lila", a workmate of grandmum.</media:description>
+            <media:thumbnail url="thumbs/dad latest.1-4.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.1-4.jpg" width="646" height="638"/>
+            <guid isPermaLink="false">slides/dad latest.1-4.jpg</guid>
+        </item>
+        <item>
             <title>7</title>
             <link>slides/7.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1943 Wedding of grandad, Patrick Joseph Walker, and grandmum, Grace Annie Bates. Lila Knight on left, grandmum's friend. Cliff Garvey best man on right, grandad's friend.</description>
             <media:description type="html">1943 Wedding of grandad, Patrick Joseph Walker, and grandmum, Grace Annie Bates. Lila Knight on left, grandmum's friend. Cliff Garvey best man on right, grandad's friend.</media:description>
             <media:thumbnail url="thumbs/7.jpg" width="200" height="150"/>
@@ -132,7 +202,7 @@
         <item>
             <title>99</title>
             <link>slides/99.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/99.jpg" width="200" height="150"/>
@@ -142,7 +212,7 @@
         <item>
             <title>70</title>
             <link>slides/70.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Late 1946. Pam Coletti and dad. Alfred St Balaclava. Alfred St was a boarding house. Pam was the daughter of Laurie Coletti who also lived there.</description>
             <media:description type="html">Late 1946. Pam Coletti and dad. Alfred St Balaclava. Alfred St was a boarding house. Pam was the daughter of Laurie Coletti who also lived there.</media:description>
             <media:thumbnail url="thumbs/70.JPG" width="200" height="150"/>
@@ -152,7 +222,7 @@
         <item>
             <title>24</title>
             <link>slides/24.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/24.jpg" width="200" height="150"/>
@@ -162,7 +232,7 @@
         <item>
             <title>52</title>
             <link>slides/52.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/52.jpg" width="200" height="150"/>
@@ -172,7 +242,7 @@
         <item>
             <title>51</title>
             <link>slides/51.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Uncle Gary, Alfred St Balaclava.</description>
             <media:description type="html">Uncle Gary, Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/51.jpg" width="200" height="150"/>
@@ -182,7 +252,7 @@
         <item>
             <title>31</title>
             <link>slides/31.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1947. Dad. In front of toilet at the back of Alfred St Balaclava.</description>
             <media:description type="html">1947. Dad. In front of toilet at the back of Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/31.jpg" width="200" height="150"/>
@@ -192,7 +262,7 @@
         <item>
             <title>32</title>
             <link>slides/32.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1947. Dad. Alfred St Balaclava.</description>
             <media:description type="html">1947. Dad. Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/32.jpg" width="200" height="150"/>
@@ -202,7 +272,7 @@
         <item>
             <title>71</title>
             <link>slides/71.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1947. Dad. Alfred St Balaclava.</description>
             <media:description type="html">1947. Dad. Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/71.JPG" width="200" height="150"/>
@@ -212,7 +282,7 @@
         <item>
             <title>29</title>
             <link>slides/29.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1947. Dad in the countryside.</description>
             <media:description type="html">1947. Dad in the countryside.</media:description>
             <media:thumbnail url="thumbs/29.jpg" width="200" height="150"/>
@@ -222,7 +292,7 @@
         <item>
             <title>30</title>
             <link>slides/30.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1947. Uncle Gary, dad's cousin Ralph, dad. Alfred St Balaclava.</description>
             <media:description type="html">1947. Uncle Gary, dad's cousin Ralph, dad. Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/30.jpg" width="200" height="150"/>
@@ -232,7 +302,7 @@
         <item>
             <title>40</title>
             <link>slides/40.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1947. Dad. Alfred St Balaclava.</description>
             <media:description type="html">1947. Dad. Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/40.jpg" width="200" height="150"/>
@@ -242,7 +312,7 @@
         <item>
             <title>10</title>
             <link>slides/10.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948 Dennis Walker and his cousin Ralph (son of auntie Nellie, grandmum's sister, and uncle Frank Blackston)</description>
             <media:description type="html">1948 Dennis Walker and his cousin Ralph (son of auntie Nellie, grandmum's sister, and uncle Frank Blackston)</media:description>
             <media:thumbnail url="thumbs/10.jpg" width="200" height="150"/>
@@ -252,7 +322,7 @@
         <item>
             <title>18</title>
             <link>slides/18.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948. Dad's auntie Daphne's daughter, auntie Daphne (grandmum's younger half sister), dad and Gary. Prince St in Hampton.</description>
             <media:description type="html">1948. Dad's auntie Daphne's daughter, auntie Daphne (grandmum's younger half sister), dad and Gary. Prince St in Hampton.</media:description>
             <media:thumbnail url="thumbs/18.jpg" width="200" height="150"/>
@@ -262,7 +332,7 @@
         <item>
             <title>46</title>
             <link>slides/46.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>7 Prince St Hampton.</description>
             <media:description type="html">7 Prince St Hampton.</media:description>
             <media:thumbnail url="thumbs/46.jpg" width="200" height="150"/>
@@ -272,9 +342,9 @@
         <item>
             <title>65</title>
             <link>slides/65.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1948. Dad, his cousin Linsey, grandmum.</description>
-            <media:description type="html">1948. Dad, his cousin Linsey, grandmum.</media:description>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1948. Dad, his cousin Lynsey, grandmum.</description>
+            <media:description type="html">1948. Dad, his cousin Lynsey, grandmum.</media:description>
             <media:thumbnail url="thumbs/65.jpg" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/65.jpg" width="450" height="720"/>
             <guid isPermaLink="false">slides/65.jpg</guid>
@@ -282,7 +352,7 @@
         <item>
             <title>38</title>
             <link>slides/38.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948. Dad's cousin Ralph and dad. </description>
             <media:description type="html">1948. Dad's cousin Ralph and dad. </media:description>
             <media:thumbnail url="thumbs/38.jpg" width="200" height="150"/>
@@ -292,7 +362,7 @@
         <item>
             <title>68</title>
             <link>slides/68.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948. Uncle Gary.</description>
             <media:description type="html">1948. Uncle Gary.</media:description>
             <media:thumbnail url="thumbs/68.jpg" width="200" height="150"/>
@@ -302,7 +372,7 @@
         <item>
             <title>20</title>
             <link>slides/20.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948. Uncle Gary. Alfred St Balaclava.</description>
             <media:description type="html">1948. Uncle Gary. Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/20.jpg" width="200" height="150"/>
@@ -312,7 +382,7 @@
         <item>
             <title>60</title>
             <link>slides/60.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948. Uncle Gary.</description>
             <media:description type="html">1948. Uncle Gary.</media:description>
             <media:thumbnail url="thumbs/60.jpg" width="200" height="150"/>
@@ -322,7 +392,7 @@
         <item>
             <title>72</title>
             <link>slides/72.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1948. Uncle Gary.</description>
             <media:description type="html">1948. Uncle Gary.</media:description>
             <media:thumbnail url="thumbs/72.JPG" width="200" height="150"/>
@@ -330,9 +400,19 @@
             <guid isPermaLink="false">slides/72.JPG</guid>
         </item>
         <item>
+            <title>dad latest.1-3</title>
+            <link>slides/dad latest.1-3.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1948. Dad and uncle Gary.</description>
+            <media:description type="html">1948. Dad and uncle Gary.</media:description>
+            <media:thumbnail url="thumbs/dad latest.1-3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.1-3.jpg" width="651" height="655"/>
+            <guid isPermaLink="false">slides/dad latest.1-3.jpg</guid>
+        </item>
+        <item>
             <title>44</title>
             <link>slides/44.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1949. Uncle Gary. Alfred St Balaclava.</description>
             <media:description type="html">1949. Uncle Gary. Alfred St Balaclava.</media:description>
             <media:thumbnail url="thumbs/44.jpg" width="200" height="150"/>
@@ -342,7 +422,7 @@
         <item>
             <title>48</title>
             <link>slides/48.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1949. Donna? (daughter of grandmum's half sister Daphe), dad, uncle Gary. Prince St Hampton.</description>
             <media:description type="html">1949. Donna? (daughter of grandmum's half sister Daphe), dad, uncle Gary. Prince St Hampton.</media:description>
             <media:thumbnail url="thumbs/48.jpg" width="200" height="150"/>
@@ -352,7 +432,7 @@
         <item>
             <title>53</title>
             <link>slides/53.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1949. Dad and uncle Gary. Prince St Hampton.</description>
             <media:description type="html">1949. Dad and uncle Gary. Prince St Hampton.</media:description>
             <media:thumbnail url="thumbs/53.jpg" width="200" height="150"/>
@@ -362,7 +442,7 @@
         <item>
             <title>49</title>
             <link>slides/49.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/49.jpg" width="200" height="150"/>
@@ -372,7 +452,7 @@
         <item>
             <title>57</title>
             <link>slides/57.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1949. Grace Walker. On holiday on a farm in Sherbrooke forest. Dad remembers the paper mache egg carton.</description>
             <media:description type="html">1949. Grace Walker. On holiday on a farm in Sherbrooke forest. Dad remembers the paper mache egg carton.</media:description>
             <media:thumbnail url="thumbs/57.jpg" width="200" height="150"/>
@@ -382,7 +462,7 @@
         <item>
             <title>11</title>
             <link>slides/11.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1949 Gary Walker, dad's cousin Ralph, Dad</description>
             <media:description type="html">1949 Gary Walker, dad's cousin Ralph, Dad</media:description>
             <media:thumbnail url="thumbs/11.jpg" width="200" height="150"/>
@@ -390,9 +470,19 @@
             <guid isPermaLink="false">slides/11.jpg</guid>
         </item>
         <item>
+            <title>47</title>
+            <link>slides/47.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1949. Dad and his cousin Ralph at Prince St Hampton. Grandad's poorly built chicken coop in background.</description>
+            <media:description type="html">1949. Dad and his cousin Ralph at Prince St Hampton. Grandad's poorly built chicken coop in background.</media:description>
+            <media:thumbnail url="thumbs/47.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/47.jpg" width="411" height="720"/>
+            <guid isPermaLink="false">slides/47.jpg</guid>
+        </item>
+        <item>
             <title>26</title>
             <link>slides/26.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1950. Uncle Gary. Prince St Hampton. Round wooden thing to right is for sharpening axes. Grandad rarely used it.</description>
             <media:description type="html">1950. Uncle Gary. Prince St Hampton. Round wooden thing to right is for sharpening axes. Grandad rarely used it.</media:description>
             <media:thumbnail url="thumbs/26.jpg" width="200" height="150"/>
@@ -402,7 +492,7 @@
         <item>
             <title>78</title>
             <link>slides/78.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/78.JPG" width="200" height="150"/>
@@ -412,7 +502,7 @@
         <item>
             <title>63</title>
             <link>slides/63.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1950. Uncle Gary and dad's cousin Ralph. Dad in background.</description>
             <media:description type="html">1950. Uncle Gary and dad's cousin Ralph. Dad in background.</media:description>
             <media:thumbnail url="thumbs/63.jpg" width="200" height="150"/>
@@ -422,7 +512,7 @@
         <item>
             <title>8</title>
             <link>slides/8.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1950 Dad's cousin Valerie, daughter of grandmum's sister Dorrie and Stan, and uncle Garry</description>
             <media:description type="html">1950 Dad's cousin Valerie, daughter of grandmum's sister Dorrie and Stan, and uncle Garry</media:description>
             <media:thumbnail url="thumbs/8.jpg" width="200" height="150"/>
@@ -432,7 +522,7 @@
         <item>
             <title>54</title>
             <link>slides/54.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/54.jpg" width="200" height="150"/>
@@ -442,9 +532,9 @@
         <item>
             <title>55</title>
             <link>slides/55.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>Valerie and grandmum's sister  Dorrie. Dad's cousin Linsay, autie Nelllie's son, on right.</description>
-            <media:description type="html">Valerie and grandmum's sister  Dorrie. Dad's cousin Linsay, autie Nelllie's son, on right.</media:description>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Valerie and grandmum's sister  Dorrie. Dad's cousin Lynsey, autie Nelllie's son, on right.</description>
+            <media:description type="html">Valerie and grandmum's sister  Dorrie. Dad's cousin Lynsey, autie Nelllie's son, on right.</media:description>
             <media:thumbnail url="thumbs/55.jpg" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/55.jpg" width="455" height="659"/>
             <guid isPermaLink="false">slides/55.jpg</guid>
@@ -452,7 +542,7 @@
         <item>
             <title>22</title>
             <link>slides/22.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Dad's cousin Valerie.</description>
             <media:description type="html">Dad's cousin Valerie.</media:description>
             <media:thumbnail url="thumbs/22.jpg" width="200" height="150"/>
@@ -460,19 +550,29 @@
             <guid isPermaLink="false">slides/22.jpg</guid>
         </item>
         <item>
-            <title>47</title>
-            <link>slides/47.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1949. Dad and his cousin Ralph at Prince St Hampton. Grandad's poorly built chicken coop in background.</description>
-            <media:description type="html">1949. Dad and his cousin Ralph at Prince St Hampton. Grandad's poorly built chicken coop in background.</media:description>
-            <media:thumbnail url="thumbs/47.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/47.jpg" width="411" height="720"/>
-            <guid isPermaLink="false">slides/47.jpg</guid>
+            <title>dad latest.2-4</title>
+            <link>slides/dad latest.2-4.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1950. Dad's grandmother Martha Diamond. Married to Albert Harold Diamond.</description>
+            <media:description type="html">1950. Dad's grandmother Martha Diamond. Married to Albert Harold Diamond.</media:description>
+            <media:thumbnail url="thumbs/dad latest.2-4.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.2-4.jpg" width="424" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.2-4.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.2-5</title>
+            <link>slides/dad latest.2-5.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dad latest.2-5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.2-5.jpg" width="960" height="578"/>
+            <guid isPermaLink="false">slides/dad latest.2-5.jpg</guid>
         </item>
         <item>
             <title>85</title>
             <link>slides/85.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1951. Dad with family dog Laddie. Prince St Hampton.</description>
             <media:description type="html">1951. Dad with family dog Laddie. Prince St Hampton.</media:description>
             <media:thumbnail url="thumbs/85.JPG" width="200" height="150"/>
@@ -482,7 +582,7 @@
         <item>
             <title>83</title>
             <link>slides/83.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1952. Dad on left of standing row. Holy communion at St Coleman's primary school.</description>
             <media:description type="html">1952. Dad on left of standing row. Holy communion at St Coleman's primary school.</media:description>
             <media:thumbnail url="thumbs/83.JPG" width="200" height="150"/>
@@ -492,7 +592,7 @@
         <item>
             <title>27</title>
             <link>slides/27.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1952. Dad and uncle Gary. Prince St Hampton. Grandad's badly made and managed poultry farm in the background.</description>
             <media:description type="html">1952. Dad and uncle Gary. Prince St Hampton. Grandad's badly made and managed poultry farm in the background.</media:description>
             <media:thumbnail url="thumbs/27.jpg" width="200" height="150"/>
@@ -502,7 +602,7 @@
         <item>
             <title>67</title>
             <link>slides/67.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1956. Dad's uncle Billy (grandad's brother William) and his second wife.</description>
             <media:description type="html">1956. Dad's uncle Billy (grandad's brother William) and his second wife.</media:description>
             <media:thumbnail url="thumbs/67.jpg" width="200" height="150"/>
@@ -512,7 +612,7 @@
         <item>
             <title>61</title>
             <link>slides/61.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Dad's uncle Billy (grandad's brother Wiliam) and his first wife.</description>
             <media:description type="html">Dad's uncle Billy (grandad's brother Wiliam) and his first wife.</media:description>
             <media:thumbnail url="thumbs/61.jpg" width="200" height="150"/>
@@ -522,7 +622,7 @@
         <item>
             <title>82</title>
             <link>slides/82.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1958. Uncle Gary (2nd row, 4th from right) at Prahran technical school.</description>
             <media:description type="html">1958. Uncle Gary (2nd row, 4th from right) at Prahran technical school.</media:description>
             <media:thumbnail url="thumbs/82.JPG" width="200" height="150"/>
@@ -532,7 +632,7 @@
         <item>
             <title>9</title>
             <link>slides/9.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1960s. Uncle Gary.</description>
             <media:description type="html">1960s. Uncle Gary.</media:description>
             <media:thumbnail url="thumbs/9.jpg" width="200" height="150"/>
@@ -542,7 +642,7 @@
         <item>
             <title>79</title>
             <link>slides/79.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1964. Uncle Gary.</description>
             <media:description type="html">1964. Uncle Gary.</media:description>
             <media:thumbnail url="thumbs/79.JPG" width="200" height="150"/>
@@ -550,9 +650,29 @@
             <guid isPermaLink="false">slides/79.JPG</guid>
         </item>
         <item>
+            <title>dad latest.5</title>
+            <link>slides/dad latest.5.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1965. Dad. Late undergrad at Melbourne Uni.</description>
+            <media:description type="html">1965. Dad. Late undergrad at Melbourne Uni.</media:description>
+            <media:thumbnail url="thumbs/dad latest.5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.5.jpg" width="552" height="719"/>
+            <guid isPermaLink="false">slides/dad latest.5.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.1-1</title>
+            <link>slides/dad latest.1-1.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1965. Dad.</description>
+            <media:description type="html">1965. Dad.</media:description>
+            <media:thumbnail url="thumbs/dad latest.1-1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.1-1.jpg" width="521" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.1-1.jpg</guid>
+        </item>
+        <item>
             <title>77</title>
             <link>slides/77.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1966. Uncle Gary.</description>
             <media:description type="html">1966. Uncle Gary.</media:description>
             <media:thumbnail url="thumbs/77.JPG" width="200" height="150"/>
@@ -562,7 +682,7 @@
         <item>
             <title>12</title>
             <link>slides/12.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1965-67. Passport photo of dad. During undergrad at Melbourne uni.</description>
             <media:description type="html">1965-67. Passport photo of dad. During undergrad at Melbourne uni.</media:description>
             <media:thumbnail url="thumbs/12.jpg" width="200" height="150"/>
@@ -570,9 +690,19 @@
             <guid isPermaLink="false">slides/12.jpg</guid>
         </item>
         <item>
+            <title>dad latest.1-5</title>
+            <link>slides/dad latest.1-5.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1969. Mum.</description>
+            <media:description type="html">1969. Mum.</media:description>
+            <media:thumbnail url="thumbs/dad latest.1-5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.1-5.jpg" width="560" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.1-5.jpg</guid>
+        </item>
+        <item>
             <title>33</title>
             <link>slides/33.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1971. Junaid.</description>
             <media:description type="html">1971. Junaid.</media:description>
             <media:thumbnail url="thumbs/33.jpg" width="200" height="150"/>
@@ -582,9 +712,9 @@
         <item>
             <title>97</title>
             <link>slides/97.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1972. Grandad's at dad's MA graduation.</description>
-            <media:description type="html">1972. Grandad's at dad's MA graduation.</media:description>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1972. Grandad at dad's MA graduation.</description>
+            <media:description type="html">1972. Grandad at dad's MA graduation.</media:description>
             <media:thumbnail url="thumbs/97.JPG" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/97.JPG" width="518" height="720"/>
             <guid isPermaLink="false">slides/97.JPG</guid>
@@ -592,7 +722,7 @@
         <item>
             <title>95</title>
             <link>slides/95.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1972 Kylie and Beverley</description>
             <media:description type="html">1972 Kylie and Beverley</media:description>
             <media:thumbnail url="thumbs/95.JPG" width="200" height="150"/>
@@ -602,7 +732,7 @@
         <item>
             <title>86</title>
             <link>slides/86.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1974. Graeme Hawker (back row, 3rd from left), Poppy (middle row, 2nd from right), Junaid? (middle row, right), me holding sign (very happy with the priviledge)</description>
             <media:description type="html">1974. Graeme Hawker (back row, 3rd from left), Poppy (middle row, 2nd from right), Junaid? (middle row, right), me holding sign (very happy with the priviledge)</media:description>
             <media:thumbnail url="thumbs/86.JPG" width="200" height="150"/>
@@ -612,7 +742,7 @@
         <item>
             <title>74</title>
             <link>slides/74.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/74.JPG" width="200" height="150"/>
@@ -622,7 +752,7 @@
         <item>
             <title>75</title>
             <link>slides/75.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/75.JPG" width="200" height="150"/>
@@ -632,7 +762,7 @@
         <item>
             <title>73</title>
             <link>slides/73.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/73.JPG" width="200" height="150"/>
@@ -642,7 +772,7 @@
         <item>
             <title>4</title>
             <link>slides/4.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1975 Grandmum, Don's wife May, grandad's nephew Don</description>
             <media:description type="html">1975 Grandmum, Don's wife May, grandad's nephew Don</media:description>
             <media:thumbnail url="thumbs/4.jpg" width="200" height="150"/>
@@ -652,7 +782,7 @@
         <item>
             <title>87</title>
             <link>slides/87.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1975. Me. Kinder photo?</description>
             <media:description type="html">1975. Me. Kinder photo?</media:description>
             <media:thumbnail url="thumbs/87.JPG" width="200" height="150"/>
@@ -660,9 +790,29 @@
             <guid isPermaLink="false">slides/87.JPG</guid>
         </item>
         <item>
+            <title>94</title>
+            <link>slides/94.JPG</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1979 Kylie</description>
+            <media:description type="html">1979 Kylie</media:description>
+            <media:thumbnail url="thumbs/94.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/94.JPG" width="523" height="720"/>
+            <guid isPermaLink="false">slides/94.JPG</guid>
+        </item>
+        <item>
+            <title>dad latest.2-1</title>
+            <link>slides/dad latest.2-1.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>Late 1970s. Dad.</description>
+            <media:description type="html">Late 1970s. Dad.</media:description>
+            <media:thumbnail url="thumbs/dad latest.2-1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.2-1.jpg" width="593" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.2-1.jpg</guid>
+        </item>
+        <item>
             <title>92</title>
             <link>slides/92.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Late 70s. Junaid. Kinder photo?</description>
             <media:description type="html">Late 70s. Junaid. Kinder photo?</media:description>
             <media:thumbnail url="thumbs/92.JPG" width="200" height="150"/>
@@ -672,7 +822,7 @@
         <item>
             <title>2</title>
             <link>slides/2.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>late 70s Kyle, and Beverly (Grandmum's half sister Daphne's daughter)</description>
             <media:description type="html">late 70s Kyle, and Beverly (Grandmum's half sister Daphne's daughter)</media:description>
             <media:thumbnail url="thumbs/2.jpg" width="200" height="150"/>
@@ -680,19 +830,9 @@
             <guid isPermaLink="false">slides/2.jpg</guid>
         </item>
         <item>
-            <title>94</title>
-            <link>slides/94.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1979 Kylie</description>
-            <media:description type="html">1979 Kylie</media:description>
-            <media:thumbnail url="thumbs/94.JPG" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/94.JPG" width="523" height="720"/>
-            <guid isPermaLink="false">slides/94.JPG</guid>
-        </item>
-        <item>
             <title>89</title>
             <link>slides/89.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1981 Kylie, daughter of Beverley, daughter of Aunty Daphne</description>
             <media:description type="html">1981 Kylie, daughter of Beverley, daughter of Aunty Daphne</media:description>
             <media:thumbnail url="thumbs/89.JPG" width="200" height="150"/>
@@ -700,19 +840,9 @@
             <guid isPermaLink="false">slides/89.JPG</guid>
         </item>
         <item>
-            <title>5</title>
-            <link>slides/5.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1986 Berverley, husband Brian, Kylie, ???</description>
-            <media:description type="html">1986 Berverley, husband Brian, Kylie, ???</media:description>
-            <media:thumbnail url="thumbs/5.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/5.jpg" width="770" height="720"/>
-            <guid isPermaLink="false">slides/5.jpg</guid>
-        </item>
-        <item>
             <title>91</title>
             <link>slides/91.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>Early 80s, Dorrie's husband, grandmum's sister Dorrie, ??, ??</description>
             <media:description type="html">Early 80s, Dorrie's husband, grandmum's sister Dorrie, ??, ??</media:description>
             <media:thumbnail url="thumbs/91.JPG" width="200" height="150"/>
@@ -722,9 +852,9 @@
         <item>
             <title>88</title>
             <link>slides/88.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1980 Gary and Patrick Walker. Grandad had brothers: Vin, William and others. And sisters: Mary and others.</description>
-            <media:description type="html">1980 Gary and Patrick Walker. Grandad had brothers: Vin, William and others. And sisters: Mary and others.</media:description>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1980 Uncle Gary and grandad. Grandad had brothers: Vin, William and others. And sisters: Mary and others.</description>
+            <media:description type="html">1980 Uncle Gary and grandad. Grandad had brothers: Vin, William and others. And sisters: Mary and others.</media:description>
             <media:thumbnail url="thumbs/88.JPG" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/88.JPG" width="960" height="662"/>
             <guid isPermaLink="false">slides/88.JPG</guid>
@@ -732,7 +862,7 @@
         <item>
             <title>98</title>
             <link>slides/98.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1983 me at grandparents house</description>
             <media:description type="html">1983 me at grandparents house</media:description>
             <media:thumbnail url="thumbs/98.JPG" width="200" height="150"/>
@@ -742,7 +872,7 @@
         <item>
             <title>15</title>
             <link>slides/15.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/15.jpg" width="200" height="150"/>
@@ -752,7 +882,7 @@
         <item>
             <title>90</title>
             <link>slides/90.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1983 me at grandparents house</description>
             <media:description type="html">1983 me at grandparents house</media:description>
             <media:thumbnail url="thumbs/90.JPG" width="200" height="150"/>
@@ -762,7 +892,7 @@
         <item>
             <title>13</title>
             <link>slides/13.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/13.jpg" width="200" height="150"/>
@@ -772,7 +902,7 @@
         <item>
             <title>14</title>
             <link>slides/14.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/14.jpg" width="200" height="150"/>
@@ -782,7 +912,7 @@
         <item>
             <title>16</title>
             <link>slides/16.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/16.jpg" width="200" height="150"/>
@@ -792,7 +922,7 @@
         <item>
             <title>3</title>
             <link>slides/3.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
             <description>1985 Uncle Garry in England</description>
             <media:description type="html">1985 Uncle Garry in England</media:description>
             <media:thumbnail url="thumbs/3.jpg" width="200" height="150"/>
@@ -800,14 +930,68 @@
             <guid isPermaLink="false">slides/3.jpg</guid>
         </item>
         <item>
+            <title>5</title>
+            <link>slides/5.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1986 Berverley, husband Brian, Kylie, ???</description>
+            <media:description type="html">1986 Berverley, husband Brian, Kylie, ???</media:description>
+            <media:thumbnail url="thumbs/5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/5.jpg" width="770" height="720"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
             <title>96</title>
             <link>slides/96.JPG</link>
-            <pubDate>Wed, 06 May 2020 22:51:46 +1000</pubDate>
-            <description>1999 Grace and Patrick Walker's house. 35 Rosamond St, Balaclava.</description>
-            <media:description type="html">1999 Grace and Patrick Walker's house. 35 Rosamond St, Balaclava.</media:description>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>1999 Grandparent's house. 35 Rosamond St, Balaclava.</description>
+            <media:description type="html">1999 Grandparent's house. 35 Rosamond St, Balaclava.</media:description>
             <media:thumbnail url="thumbs/96.JPG" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/96.JPG" width="960" height="595"/>
             <guid isPermaLink="false">slides/96.JPG</guid>
+        </item>
+        <item>
+            <title>IMGP1812</title>
+            <link>slides/IMGP1812.JPG</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>2003 Dad at Monash University</description>
+            <media:description type="html">2003 Dad at Monash University</media:description>
+            <media:thumbnail url="thumbs/IMGP1812.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMGP1812.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Tue, 09 Sep 2003 00:22:50 +1000" cameraMake="PENTAX Corporation " cameraModel="PENTAX Optio S "/>
+            <guid isPermaLink="false">slides/IMGP1812.JPG</guid>
+        </item>
+        <item>
+            <title>IMGP1813</title>
+            <link>slides/IMGP1813.JPG</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMGP1813.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMGP1813.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Tue, 09 Sep 2003 00:23:48 +1000" cameraMake="PENTAX Corporation " cameraModel="PENTAX Optio S "/>
+            <guid isPermaLink="false">slides/IMGP1813.JPG</guid>
+        </item>
+        <item>
+            <title>IMGP1814</title>
+            <link>slides/IMGP1814.JPG</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMGP1814.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/IMGP1814.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Tue, 09 Sep 2003 00:24:12 +1000" cameraMake="PENTAX Corporation " cameraModel="PENTAX Optio S "/>
+            <guid isPermaLink="false">slides/IMGP1814.JPG</guid>
+        </item>
+        <item>
+            <title>7 Dec 2011DW-8</title>
+            <link>slides/7 Dec 2011DW-8.JPG</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:10 +1000</pubDate>
+            <description>2007. Dad at Monash University library.</description>
+            <media:description type="html">2007. Dad at Monash University library.</media:description>
+            <media:thumbnail url="thumbs/7 Dec 2011DW-8.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/7 Dec 2011DW-8.JPG" width="960" height="640"/>
+            <jalbum:exif originalDate="Wed, 07 Dec 2011 04:06:12 +1100" cameraMake="Canon" cameraModel="Canon PowerShot G12"/>
+            <guid isPermaLink="false">slides/7 Dec 2011DW-8.JPG</guid>
         </item>
     </channel>
 </rss>

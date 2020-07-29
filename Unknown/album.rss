@@ -9,29 +9,9 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>25</title>
-            <link>slides/25.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/25.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/25.jpg" width="729" height="444"/>
-            <guid isPermaLink="false">slides/25.jpg</guid>
-        </item>
-        <item>
-            <title>28</title>
-            <link>slides/28.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/28.jpg" width="200" height="150"/>
-            <media:content type="image/jpeg" url="slides/28.jpg" width="410" height="720"/>
-            <guid isPermaLink="false">slides/28.jpg</guid>
-        </item>
-        <item>
             <title>35</title>
             <link>slides/35.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description>Hilda?</description>
             <media:description type="html">Hilda?</media:description>
             <media:thumbnail url="thumbs/35.jpg" width="200" height="150"/>
@@ -41,7 +21,7 @@
         <item>
             <title>37</title>
             <link>slides/37.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/37.jpg" width="200" height="150"/>
@@ -51,7 +31,7 @@
         <item>
             <title>59</title>
             <link>slides/59.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/59.jpg" width="200" height="150"/>
@@ -61,7 +41,7 @@
         <item>
             <title>39</title>
             <link>slides/39.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/39.jpg" width="200" height="150"/>
@@ -71,7 +51,7 @@
         <item>
             <title>41</title>
             <link>slides/41.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/41.jpg" width="200" height="150"/>
@@ -81,7 +61,7 @@
         <item>
             <title>1</title>
             <link>slides/1.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/1.jpg" width="200" height="150"/>
@@ -89,9 +69,19 @@
             <guid isPermaLink="false">slides/1.jpg</guid>
         </item>
         <item>
+            <title>25</title>
+            <link>slides/25.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/25.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/25.jpg" width="729" height="444"/>
+            <guid isPermaLink="false">slides/25.jpg</guid>
+        </item>
+        <item>
             <title>45</title>
             <link>slides/45.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/45.jpg" width="200" height="150"/>
@@ -101,7 +91,7 @@
         <item>
             <title>58</title>
             <link>slides/58.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/58.jpg" width="200" height="150"/>
@@ -111,7 +101,7 @@
         <item>
             <title>56</title>
             <link>slides/56.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/56.jpg" width="200" height="150"/>
@@ -121,7 +111,7 @@
         <item>
             <title>66</title>
             <link>slides/66.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/66.jpg" width="200" height="150"/>
@@ -131,7 +121,7 @@
         <item>
             <title>69</title>
             <link>slides/69.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/69.jpg" width="200" height="150"/>
@@ -141,12 +131,52 @@
         <item>
             <title>42</title>
             <link>slides/42.jpg</link>
-            <pubDate>Wed, 06 May 2020 22:51:52 +1000</pubDate>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/42.jpg" width="200" height="150"/>
             <media:content type="image/jpeg" url="slides/42.jpg" width="424" height="710"/>
             <guid isPermaLink="false">slides/42.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.1-2</title>
+            <link>slides/dad latest.1-2.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
+            <description>Late 1940s? Back right is dad's cousin Ralph.</description>
+            <media:description type="html">Late 1940s? Back right is dad's cousin Ralph.</media:description>
+            <media:thumbnail url="thumbs/dad latest.1-2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.1-2.jpg" width="453" height="713"/>
+            <guid isPermaLink="false">slides/dad latest.1-2.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.2-3</title>
+            <link>slides/dad latest.2-3.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dad latest.2-3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.2-3.jpg" width="425" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.2-3.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.3-2</title>
+            <link>slides/dad latest.3-2.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/dad latest.3-2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.3-2.jpg" width="775" height="484"/>
+            <guid isPermaLink="false">slides/dad latest.3-2.jpg</guid>
+        </item>
+        <item>
+            <title>dad latest.3-5</title>
+            <link>slides/dad latest.3-5.jpg</link>
+            <pubDate>Wed, 29 Jul 2020 21:50:11 +1000</pubDate>
+            <description>Dad's cousin Ralph?</description>
+            <media:description type="html">Dad's cousin Ralph?</media:description>
+            <media:thumbnail url="thumbs/dad latest.3-5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/dad latest.3-5.jpg" width="429" height="720"/>
+            <guid isPermaLink="false">slides/dad latest.3-5.jpg</guid>
         </item>
     </channel>
 </rss>
